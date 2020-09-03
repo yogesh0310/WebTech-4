@@ -1,0 +1,44 @@
+*{
+	margin: 0;
+	padding:0;
+	box-sizing: border-box;
+}
+.header h1{
+	width: 100%;
+	text-align: center;
+	margin-left: 25px;
+	padding: 20px;
+	font-family: cursive;
+	background-color:#181818;
+	color:	white;
+}
+#drop{
+	margin: 25px;
+}
+.profile{
+	margin-left:35px;
+}
+.back-img{
+	background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(27009665-restaurant-wallpapers-1.jpg);
+	width: 100%;
+	height: 750px;
+	background-size: cover;
+	background-position: center;	
+	align-items: center;	
+}
+.panel-title{
+	padding:20px;
+}
+.center{
+	align-items: center;
+}
+.right{
+	margin: 20px;
+}
+.container button{
+	margin: 50%;
+}
+button{
+	color: black;
+	align-items: center;
+}
